@@ -1,0 +1,2 @@
+Created Employee Management System by Alfred
+Copyright (c) 2024 
